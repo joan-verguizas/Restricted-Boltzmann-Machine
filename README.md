@@ -15,7 +15,8 @@ Key objectives of the project include:
 The project has consisted in taking a set of data where each sample represents a linear chain of aminoacids that can be either polar or non-polar. Every single chain contains 5 aminoacids (that represents a proteine) and as a result forms an alternating polar and non-polar pattern of ACs. The model aims to reproduce the alternating polar and non-polar patterns observed in real protein sequences.
 
 ## Methods
-Key Components
+
+Key Components:
 
     - RBM Model: A neural network-based generative model with binary neurons and restricted connections between visible and hidden layers.
     - Energy Function: The energy of the model is defined based on the interactions between visible and hidden units.
